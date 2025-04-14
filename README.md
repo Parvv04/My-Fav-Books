@@ -25,4 +25,9 @@ Welcome to **FabStories**! This website showcases a collection of my favorite bo
 2. Open the `index.html` file in your web browser to view the website.
 
 ## File Structure
-
+├── index.html # Main HTML file 
+├── styles.css # CSS for styling the website 
+└── images/ # Folder containing images for the website 
+├── book2a.jpg # Image for "Refund High School" 
+├── shatterme.jpg # Image for "Shatter Me" └
+── (other images) # Other images used in the website
