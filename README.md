@@ -24,3 +24,9 @@ Welcome to **FabStories**! This website showcases a collection of my favorite bo
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser to view the website.
 
+
+## Credits
+
+- **Wattpad**: [Pityful I Know](https://www.wattpad.com/story/245078730-pitiful-i-know) by [DarknessAndLight](https://www.wattpad.com/user/DarknessAndLight)
+- **Webtoon**: [Refund High School](https://www.webtoons.com/en/fantasy/refundhighschool/list?title_no=1360) by [LICO](https://www.webtoons.com/en/search?searchMode=AUTHOR&keyword=LICO)
+- **Shatter Me**: [Amazon Link](https://www.amazon.in/SHATTER-ME-COMPLETE-COLLECTION-VOLUMES/dp/0008608911) by [Tahereh Mafi](https://www.instagram.com/tahereh/)
