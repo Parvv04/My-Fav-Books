@@ -24,6 +24,15 @@ Welcome to **FabStories**! This website showcases a collection of my favorite bo
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser to view the website.
 
+## Project Structure
+```
+│── index.html        # Main page with recipe links
+│── styles.css        # CSS for styling the website
+└── /images           # Folder containing images for the website
+    ├── book2a.jpg    #Image for "Refund High School"
+    └── shatterme.jpg # Image for "Shatter Me"
+```
+
 
 ## Credits
 
