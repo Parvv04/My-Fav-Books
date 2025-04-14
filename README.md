@@ -28,9 +28,9 @@ Welcome to **FabStories**! This website showcases a collection of my favorite bo
 ```
 │── index.html        # Main page with recipe links
 │── styles.css        # CSS for styling the website
-└── /images           # Folder containing images for the website
-    ├── book2a.jpg    #Image for "Refund High School"
-    └── shatterme.jpg # Image for "Shatter Me"
+│── /images           # Folder containing images for the website
+│   ├── book2a.jpg    #Image for "Refund High School"
+│   └── shatterme.jpg # Image for "Shatter Me"
 ```
 
 
